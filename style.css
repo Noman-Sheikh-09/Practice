@@ -1,0 +1,28 @@
+#hdng{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#para{
+    text-align: center;
+
+}
+#btn{
+    background: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+/* #image{
+     width: 50%;
+    height: 100vh;
+    margin-left: 25%;
+
+} */
